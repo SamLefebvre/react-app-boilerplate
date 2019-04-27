@@ -1,0 +1,4 @@
+node_modules/
+public/dist/
+.env.test           # Normalement je le veux pas dans le git
+.test.development   # Normalement je le veux pas dans le git
